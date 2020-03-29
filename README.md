@@ -8,3 +8,5 @@ It is an application of the main content learned from ICS4U. The game is built o
 Inheritance, Classes, Lists, Methods and Graphics. Delta timer is also implemented which is not part of the curriculum but helped in
 allocating more memory for the game.
 
+![](title_screen.jpg)
+![](game_play.jpg)
